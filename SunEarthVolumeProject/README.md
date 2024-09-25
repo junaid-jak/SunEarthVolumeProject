@@ -10,8 +10,10 @@ This project calculates the volume of the Earth and the Sun and determines the r
 
 ## Formula
 The volume of a sphere is given by:
-\[
-V = \frac{4}{3} \pi r^3
-\]
+V=4/3 PI r3
 where:
 - `r` is the radius of the sphere.
+## Output
+The volume of the Earth is 2.2984729611703882E11 cubic miles.
+The volume of the Sun is 3.388807851993121E17 cubic miles.
+The ratio of the volume of the Sun to the volume of the Earth is 1474373.5990122468.
